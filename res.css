@@ -1,0 +1,36 @@
+@media only screen and (max-width: 1007px){
+    .image{
+        width: 300px;
+        height: 300px;
+        border-radius: 0px;
+    }
+    .img-box{
+      margin-top: 30px;
+    }
+    .flex-box{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .social{
+        display: flex;
+        flex-wrap: wrap;
+    }
+   
+    i{
+        margin: 10px 10px;
+    }
+    .im{
+        display: none;
+    }
+    .flex{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
